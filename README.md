@@ -1,6 +1,8 @@
 # 🧮 Calculadora
 
-Este repositório contém uma calculadora simples desenvolvida utilizando HTML, CSS e JavaScript. A calculadora permite realizar operações básicas como adição, subtração, multiplicação e divisão.
+Este repositório contém uma calculadora simples desenvolvida utilizando HTML, CSS e JavaScript. 
+
+A calculadora permite realizar operações básicas como adição, subtração, multiplicação e divisão.
 
 ![Calculadora Preview](img/tela-calculadora.png)
 
